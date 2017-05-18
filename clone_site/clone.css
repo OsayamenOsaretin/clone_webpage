@@ -1,0 +1,50 @@
+
+
+
+
+
+.dark-background-division{
+	background-color: black;
+	position: relative;
+	color: black;
+	height: 135px;
+	width: 100%;
+}
+
+.top-of-site{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+
+	width: 100%;
+}
+
+#white-text{
+	color: white;
+}
+
+#name {
+	width: 206px;
+	length: 19px;
+}
+
+#also{
+	position: absolute;
+    top: 5px;
+    right: 5px;
+    text-align: right;
+    width: 250px;
+    height: 60px;
+    color: white;
+    text-decoration: underline;
+
+}
+body{
+	text-align: center;
+}
+
+#that{
+	color: blue;
+	text-decoration: underline;
+}
+
